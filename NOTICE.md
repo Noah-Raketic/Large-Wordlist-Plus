@@ -1,0 +1,1 @@
+The EFF Large Wordlist for Passphrases and the EFF Short Wordlist for Passphrases #2 are licensed by the [Electronic Frontier Foundation](https://www.eff.org/copyright) under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Large Wordlist Plus is not affiliated with the EFF, but is a derivative work of these projects.
