@@ -1,4 +1,4 @@
-Large Wordlist Plus is a derivative work of the [EFF Large Wordlist for Passphrases](https://www.eff.org/document/passphrase-wordlists) and the [EFF Short Wordlist for Passphrases #2](https://www.eff.org/document/eff-short-wordlist-passphrases-2), created by the [Electronic Frontier Foundation](https://www.eff.org/copyright) and licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+Large Wordlist Plus is a derivative work of the [EFF Large Wordlist for Passphrases](https://www.eff.org/document/passphrase-wordlists) and the [EFF Short Wordlist for Passphrases #2](https://www.eff.org/document/eff-short-wordlist-passphrases-2), which were created by the [Electronic Frontier Foundation](https://www.eff.org/copyright) and licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
 
 Modifications made:
 - Combined the entire EFF Large Wordlist for Passphrases with 416 unique words from the EFF Short Wordlist for Passphrases #2.
